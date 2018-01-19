@@ -29,4 +29,5 @@ __bold__
   
   
 hse.ru 
-[my squad] (https://www.hse.ru/"мой университет")
+
+[my squad](https://www.hse.ru/"мой университет")
