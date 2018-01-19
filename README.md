@@ -9,3 +9,5 @@ i love DL
 ***bold and italic***
 
 _italic_
+__bold__
+*люблю курочку, __курлык__*
