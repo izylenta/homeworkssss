@@ -26,3 +26,7 @@ __bold__
 * unordered
   - unordered
   - unordered
+  
+  
+hse.ru 
+[my squad] (https://www.hse.ru/"мой университет")
